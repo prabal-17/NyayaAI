@@ -81,9 +81,9 @@ Explanation: Any person who commits murder shall be punished with death or impri
 ---
 
 ## **Links to Project Resources**
-- **Project Repository**: [GitHub Repository Link](https://github.com/yourusername/legal-case-analysis-bns)
+- **Project Repository**: [GitHub Repository Link](https://github.com/prabal-17/NyayaAI/tree/main)
 - **Gradio Interface**: [Live Demo Link](https://gradio.app/demo)
-- **Legal Document (BNS 2023)**: [PDF Document Link](https://yourlink.com/a2023-45.pdf)
+- **Legal Document (BNS 2023)**: [PDF Document Link](https://github.com/prabal-17/NyayaAI/blob/main/250883_english_01042024.pdf)
 
 ---
 
