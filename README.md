@@ -100,8 +100,8 @@ Explanation: Any person who commits murder shall be punished with death or impri
 ---
 
 ## **Contributors**
-- **Your Name** - [GitHub Profile](https://github.com/yourusername)
+- **Your Name** - [GitHub Profile](https://github.com/prabal-17)
 
 ## **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is free to use and refer.
 
